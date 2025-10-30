@@ -1,5 +1,6 @@
-package br.edu.ifsul.cstsi.tads_rivero.model;
+package br.edu.ifsul.cstsi.tads_rivero.ingresso;
 
+import br.edu.ifsul.cstsi.tads_rivero.sessao.Sessao;
 import jakarta.persistence.*;
 import lombok.*;
 

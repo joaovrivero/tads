@@ -1,5 +1,8 @@
-package br.edu.ifsul.cstsi.tads_rivero.model;
+package br.edu.ifsul.cstsi.tads_rivero.sessao;
 
+import br.edu.ifsul.cstsi.tads_rivero.filme.Filme;
+import br.edu.ifsul.cstsi.tads_rivero.ingresso.Ingresso;
+import br.edu.ifsul.cstsi.tads_rivero.sala.Sala;
 import jakarta.persistence.*;
 import lombok.*;
 
